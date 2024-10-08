@@ -5,15 +5,17 @@ This is the brach with starter files.
 1. Clone the repository
 ```bash
 git clone https://github.com/hashABCD/CRUD-Flask-WebApp-Tutorial.git
-cd .\CRUD-Flask-WebApp-Tutorial
+cd ./CRUD-Flask-WebApp-Tutorial
 git checkout starter-files
 ```
 
 2. Set up and activate virutual environment
 ```bash
-python -m venv .venv
-.\.venv\Scripts\activate    #For windows
-source .venv/               #For MacOs/ Linux
+
+python -m venv .venv                    #Set up venv
+
+.\.venv\Scripts\activate                 #For windows
+source <venv>/bin/activate               #For MacOs/ Linux
 ```
 
 3. Install requirements
