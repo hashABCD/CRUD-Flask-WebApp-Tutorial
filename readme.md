@@ -11,8 +11,8 @@ git checkout starter-files
 
 2. Set up and activate virutual environment
 ```bash
-python venv .venv
-.venv/Scripts/activate #For windows
+python -m venv .venv
+.\.venv\Scripts\activate    #For windows
 source .venv/               #For MacOs/ Linux
 ```
 
