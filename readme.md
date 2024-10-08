@@ -5,7 +5,8 @@ This is the brach with starter files.
 1. Clone the repository
 ```bash
 git clone https://github.com/hashABCD/CRUD-Flask-WebApp-Tutorial.git
-git checkout -b starter-files
+cd .\CRUD-Flask-WebApp-Tutorial
+git checkout starter-files
 ```
 
 2. Set up and activate virutual environment
